@@ -1,6 +1,0 @@
-setup.py
-SysAdminCompanion.egg-info/PKG-INFO
-SysAdminCompanion.egg-info/SOURCES.txt
-SysAdminCompanion.egg-info/dependency_links.txt
-SysAdminCompanion.egg-info/top_level.txt
-sysadcom/sysadcom.py
