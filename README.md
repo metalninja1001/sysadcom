@@ -5,7 +5,7 @@ A system administration companion that can be used for chatting to a prompt and 
 
 ### Install
 - Clone the repo to your directory
-- CD in to newly cloned repo `cd sysadcom`
+- CD in to newly cloned repo `cd sysadcom/SysAdminCompanion`
 - Run `pip install .`
 
 ### Usage
