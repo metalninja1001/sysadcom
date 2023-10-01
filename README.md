@@ -6,6 +6,7 @@ A system administration companion that can be used for chatting to a prompt and 
 ### Install
 - Clone the repo to your directory
 - CD in to newly cloned repo `cd sysadcom/SysAdminCompanion`
+- Run `python setup.py sdist bdist_wheel` and then
 - Run `pip install .`
 
 ### Usage
